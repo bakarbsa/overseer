@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "694366694037",
+    "firebase_url": "https://overseer-9e149-default-rtdb.firebaseio.com",
+    "project_id": "overseer-9e149",
+    "storage_bucket": "overseer-9e149.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694366694037:android:5740a85f6cba4b542d499c",
+        "android_client_info": {
+          "package_name": "com.example.overseer_b201"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694366694037-1d1omd8jjgiervva5g0hggric0po1t76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOrs0SZFmJkTDSt8d3N6rJvVcmW4xhhQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694366694037-1d1omd8jjgiervva5g0hggric0po1t76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
